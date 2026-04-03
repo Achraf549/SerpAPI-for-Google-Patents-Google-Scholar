@@ -1,1 +1,1 @@
-# SerpAPI-for-Google-Patents-Google-Scholar
+# SerpAPI-for-Google-Patents-Scholar
